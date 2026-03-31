@@ -38,7 +38,6 @@
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="45" alt="Zustand">
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/zod-jxeoj68ny4h94671educq4.png/zod-xe0a17we1j8ox6lns9ruf.png?_a=DATAiZAAZAA0" width="45" alt="Zod">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="45" alt="Git">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/vercel-6xfdjwqdd2dnfsr90c0pjq.png/vercel-ltjv9ugkhzcj1yk16y59an.png?_a=DATAiZAAZAA0" width="45" alt="Vercel">
 </p>
 
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
