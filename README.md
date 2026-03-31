@@ -17,7 +17,7 @@
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 
 ### 🛠️ Programming Languages
-<p>
+<p align="center">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="45" alt="TypeScript">
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45" alt="Java">
@@ -29,7 +29,7 @@
 </p>
 
 ### 🚀 Technologies
-<p>
+<p align="center"> 
   <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="45" alt="React">
   <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" width="45" alt="Astro">
   <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="45" alt="Tailwindcss">
@@ -43,7 +43,7 @@
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 
 ### 🎓 Studies
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0" style="border-collapse: collapse; border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
       <img src="https://www.unlu.edu.ar/imagenes/logo.png" width="60" style="border-radius: .7rem;" alt="Universidad de lujan" />
