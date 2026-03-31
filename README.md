@@ -42,7 +42,7 @@
 
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 
-<h3 align="center"></h3>🎓 Studies</h3>
+<h3 align="center">🎓 Studies</h3>
 <table border="0" style="border-collapse: collapse; border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
