@@ -16,7 +16,7 @@
 
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 
-### 🛠️ Programming Languages
+<h3 align="center">🛠️ Programming Languages</h3>
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="45" alt="TypeScript">
@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="45" alt="CSS">
 </p>
 
-### 🚀 Technologies
+<h3 align="center">🚀 Technologies</h3>
 <p align="center"> 
   <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="45" alt="React">
   <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" width="45" alt="Astro">
@@ -42,7 +42,7 @@
 
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 
-### 🎓 Studies
+<h3 align="center"></h3>🎓 Studies</h3>
 <table border="0" style="border-collapse: collapse; border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
