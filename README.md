@@ -33,6 +33,7 @@
   <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="45" alt="React">
   <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" width="45" alt="Astro">
   <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="45" alt="Tailwindcss">
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="45" alt="Spring boot">
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="45" alt="NodeJS">
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="45" alt="Express">
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="45" alt="Zustand">
