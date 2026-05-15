@@ -16,6 +16,14 @@
 
 <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 
+<h3 align="center">👤 About Me</h3>
+<p align="center">
+  I'm a passionate Full Stack Developer with a love for the tech world. I enjoy researching and discovering new things all the time.<br/>
+  My main focus is web development, but I'm open and eager to work in different areas whenever needed.
+</p>
+
+<div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
+
 <h3 align="center">🛠️ Programming Languages</h3>
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="45" alt="TypeScript" title="TypeScript">
@@ -61,3 +69,48 @@
     </td>
   </tr>
 </table>
+
+<div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a70e12&icon_color=a70e12" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a70e12" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0d1117&ring=a70e12&fire=a70e12&currStreakLabel=a70e12" alt="GitHub Streak" />
+</p>
+
+<!-- <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
+<h3 align="center">🌟 Featured Projects</h3>
+<table border="0" style="border-collapse: collapse; border: none;" align="center">
+  <tr style="border: none;">
+    <td style="border: none; padding: 12px;" align="center">
+      <a href="LINK_AL_REPO_1">
+        <b>🔧 Project Name 1</b>
+      </a>
+      <br/>
+      <sub>Short description of what the project does and what technologies were used.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+    </td>
+    <td style="border: none; padding: 12px;" align="center">
+      <a href="LINK_AL_REPO_2">
+        <b>🚀 Project Name 2</b>
+      </a>
+      <br/>
+      <sub>Short description of what the project does and what technologies were used.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+    </td>
+    <td style="border: none; padding: 12px;" align="center">
+      <a href="LINK_AL_REPO_3">
+        <b>💡 Project Name 3</b>
+      </a>
+      <br/>
+      <sub>Short description of what the project does and what technologies were used.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+  </tr>
+</table> -->
