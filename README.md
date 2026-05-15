@@ -70,17 +70,6 @@
   </tr>
 </table>
 
-<div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a70e12&icon_color=a70e12" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a70e12" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0d1117&ring=a70e12&fire=a70e12&currStreakLabel=a70e12" alt="GitHub Streak" />
-</p>
-
 <!-- <div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
 <h3 align="center">🌟 Featured Projects</h3>
 <table border="0" style="border-collapse: collapse; border: none;" align="center">
