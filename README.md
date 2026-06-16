@@ -1,14 +1,4 @@
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="background-color: rgba(167, 14, 18, 0.2); border: none;">
-      <td style="padding: 20px; border: none;">
-        <h1 style="margin: 0; font-family: system-ui, sans-serif;">what's up? I'm Santino</h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: rgba(167, 14, 18, 0.5); height: 5px; width: 100%; border-radius: 1rem; margin: 20px 0;"></div>
+<h1 style="margin: 0; font-family: system-ui, sans-serif;">what's up? I'm Santino</h1>
 
 <h3 align="center">👤 About Me</h3>
 <p align="center">
