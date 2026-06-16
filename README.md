@@ -1,4 +1,4 @@
-<h1 style="margin: 0; font-family: system-ui, sans-serif;">what's up? I'm Santino</h1>
+<h1 style="margin: 0; font-family: system-ui, sans-serif;"><span style="display: block; margin-bottom: 6px;">what's up? </span>I'm Santino </h1>
 
 <h3 align="center">👤 About Me</h3>
 <p align="center">
