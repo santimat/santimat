@@ -2,13 +2,7 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="background-color: rgba(167, 14, 18, 0.2); border: none;">
       <td style="padding: 20px; border: none;">
-        <h1 style="margin: 0; font-family: system-ui, sans-serif;">Hi there! I'm Santino</h1>
-        <a href="https://www.linkedin.com/in/santimat/" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40" alt="linkedin">
-        </a>
-      </td>
-      <td style="padding: 20px; border: none;">
-        <img src="./img/profile-ai.webp" width="150" style="border-radius: 1rem;" alt="Profile AI"/>
+        <h1 style="margin: 0; font-family: system-ui, sans-serif;">what's up? I'm Santino</h1>
       </td>
     </tr>
   </table>
